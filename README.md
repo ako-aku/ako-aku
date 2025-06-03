@@ -1,16 +1,22 @@
-## Hi there 👋
+<h3 align="center" class="title">ANDRII KOLISNYK</h3>
+<p align="center" class="head">I AM A 19 Y.O. KID WHO LOVES CREATING, INSPIRED BY THE CHAOS INSIDE MY HEAD, SWEPT INTO THE PATH OF PROGRAMMING BUT ONCE DREAMED OF BECOMING A DOCTOR.</p>
 
-<!--
-**ako-aku/ako-aku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p>DO I?</p>
+<p>FRONT END DEVELOPER, VIDEO EDITING, DIGITAL ILLUSTRATION, MUSIC PRODUCTION</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p>LANG?</p>
+<p>HTML, CSS, JS, TS, C/C++, PYTHON, JAVA, ENGLISH, GERMAN, RUSSIAN, UKRAINIAN</p>
+
+<br>
+
+<p>TECH?</p>
+<p>NODE.JS, REACT</p>
+
+<br>
+
+<p>APPS?<p>
+<p>VIM, WEZTERM, PS, AI, PR, AE, ID, AU</p>
