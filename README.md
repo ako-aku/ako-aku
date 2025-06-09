@@ -19,4 +19,4 @@
 <br>
 
 <p>APPS?<p>
-<p>VIM, WEZTERM, PS, AI, PR, AE, ID, AU</p>
+<p>PS, AI, PR, AE, ID, AU</p>
